@@ -31,14 +31,8 @@ public class Main {
 
         switch (estación) {
             case "primavera":
-                System.out.println(mensaje + estación);
-                break;
             case "verano":
-                System.out.println(mensaje + estación);
-                break;
             case "otoño":
-                System.out.println(mensaje + estación);
-                break;
             case "invierno":
                 System.out.println(mensaje + estación);
                 break;
