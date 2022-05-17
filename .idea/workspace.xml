@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15d87b1e-341b-490f-8dad-bd0b71379247" name="Changes" comment="Ejercicios tema 4">
+    <list default="true" id="15d87b1e-341b-490f-8dad-bd0b71379247" name="Changes" comment="Ejercicios tema 4 editado">
+      <change afterPath="$PROJECT_DIR$/Project3/Project3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project2/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,14 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;15&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.company.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Project1" />
@@ -71,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.com.company.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -99,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652494078012</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicios tema 4 editado">
+      <created>1652750100187</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652750100187</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicios tema 3" />
     <MESSAGE value="Ejercicios tema 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios tema 4" />
+    <MESSAGE value="Ejercicios tema 4 editado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios tema 4 editado" />
   </component>
 </project>
