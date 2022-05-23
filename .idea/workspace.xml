@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15d87b1e-341b-490f-8dad-bd0b71379247" name="Changes" comment="Entrega ejercicios tema 2">
-      <change afterPath="$PROJECT_DIR$/JavaBasico/Tema3/Tema3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBasico/Tema3/src/com/example/Bucles.java" afterDir="false" />
+    <list default="true" id="15d87b1e-341b-490f-8dad-bd0b71379247" name="Changes" comment="Entrega ejercicios tema 3">
+      <change afterPath="$PROJECT_DIR$/JavaBasico/POO/OB-POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/POO/src/POO/classes/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/POO/src/POO/classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/POO/src/POO/classes/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/POO/src/POO/inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/POO/src/POO/inheritance/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/POO/src/POO/inheritance/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/Tema4/Tema4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/Tema4/src/com/poo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/Tema4/src/com/poo/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/Tema4/src/com/poo/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasico/Tema4/src/com/poo/SmartWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -45,26 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bucles">
+  <component name="RunManager" selected="Application.com.poo.Main">
     <configuration name="Bucles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Bucles" />
       <module name="Tema3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ByeWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ByeWorld" />
-      <module name="HolaMundo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.HelloWorld" />
-      <module name="HolaMundo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.classes.Main" />
+      <module name="OB-POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="POO.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.poo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.poo.Main" />
+      <module name="Tema4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.poo.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Bucles" />
         <item itemvalue="Application.Funciones" />
         <item itemvalue="Application.Tema1" />
-        <item itemvalue="Application.ByeWorld" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653183974004</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Entrega ejercicios tema 3">
+      <created>1653276233780</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653276233780</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +234,8 @@
     <MESSAGE value="Prácticas" />
     <MESSAGE value="Entrega ejercicios tema 1" />
     <MESSAGE value="Entrega ejercicios tema 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entrega ejercicios tema 2" />
+    <MESSAGE value="Entrega ejercicios tema 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Entrega ejercicios tema 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
